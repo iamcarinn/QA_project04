@@ -22,3 +22,5 @@ Bug Tracking
 | **5** |                     | **Redmine**                                                  |        |
 |     | «03.roles» | Скрин пространства _Администрирование_ на сайте http://m.redmine.org, вкладка _Роли и права доступа | ✅     |
 |     | папка «artifacts». | Скрин каждой вкладки _Project Artifacts | ✅     |
+|     | «Web-Ozon_bug-report.txt» | Баг-репорт. | ✅     |
+|     | «Web-Ozon_test-report» | Отчёт о результатах тестирования. | ✅     |
