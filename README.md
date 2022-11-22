@@ -3,7 +3,7 @@ Bug Tracking
  ---
  
  Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
-
+<h1>Tasks</h3>
 
 | No. | File name             | Task                                                                        | Status |
 | --- | ----------------------| --------------------------------------------------------------------------- | ------ |
